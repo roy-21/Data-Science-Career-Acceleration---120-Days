@@ -2,14 +2,14 @@
 
 ### From Python Foundations to Job-Ready Data Scientist
 
-Hi! 👋  
+Hi!  
 Welcome to my **Data Science journey**, where I’m building real, industry-aligned skills to become a **job-ready Data Scientist**.
 
 This repository is my:
-- 📘 Daily learning & practice log  
-- 📊 Data science experimentation space  
-- 🧠 Knowledge base (concepts + notes)  
-- 💼 Growing professional portfolio  
+-  Daily learning & practice log  
+-  Data science experimentation space  
+-  Knowledge base (concepts + notes)  
+-  Growing professional portfolio  
 
 ---
 
@@ -83,14 +83,14 @@ This roadmap is designed to match **industry expectations**:
 ---
 
 
-- 📅 **Day-XX** → Daily practice & learning
-- 📊 **projects/** → Real-world data science work
-- 📝 **notes/** → Theory + intuition
-- 🔗 **references/** → Extra learning material
+-  **Day-XX** → Daily practice & learning
+-  **projects/** → Real-world data science work
+-  **notes/** → Theory + intuition
+-  **references/** → Extra learning material
 
 ---
 
-## 📈 Learning Philosophy
+##  Learning Philosophy
 
 - Learn by **doing**, not just watching
 - Focus on **clean, readable, well-documented code**
@@ -100,14 +100,14 @@ This roadmap is designed to match **industry expectations**:
 
 ---
 
-## 📬 Contact & Connect
+##  Contact & Connect
 
-- 📧 **Email:** rcsojib.cse1@gmail.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/roysojib/
+-  **Email:** rcsojib.cse1@gmail.com  
+-  **LinkedIn:** https://www.linkedin.com/in/roysojib/
 
 ---
 
-## ⭐ Final Note
+##  Final Note
 
 This repository reflects **consistent effort, discipline, and growth** in Data Science.  
 If you're reviewing this — you're seeing **learning in public**.
