@@ -1,0 +1,2 @@
+Hello, this file was written safely using a context manager!
+No need to call close() manually.
